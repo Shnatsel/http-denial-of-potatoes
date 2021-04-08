@@ -7,3 +7,7 @@ This is not going to work against `curl`, `wget` or any other serious client. Bu
 ## Usage
 
 Run the script, then connect to localhost:8080 using the HTTP client you want to test.
+
+## License
+
+Licensed under any of Apache 2.0, MIT or Zlib, license at your option.
