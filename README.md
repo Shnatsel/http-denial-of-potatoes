@@ -10,4 +10,4 @@ Run the script, then connect to localhost:8080 using the HTTP client you want to
 
 ## License
 
-Licensed under any of Apache 2.0, MIT or Zlib, license at your option.
+Licensed under any of Apache 2.0, MIT or Zlib license, at your option.
