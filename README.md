@@ -19,6 +19,5 @@ Contributions of these scripts are welcome!
 - [ ] Slow header transfer (tests timeouts)
 - [ ] Slow body transfer (tests timeouts)
 - [ ] The above combined with redirects (vulns: [1](https://github.com/algesten/ureq/pull/313), [2](https://github.com/sbstp/attohttpc/issues/85), ...)
-- [ ] 
 
 ...and anything else that you've seen cause issues in HTTP clients. Combing through security advisories for curl, etc is probably a good strategy for discovering failure modes.
