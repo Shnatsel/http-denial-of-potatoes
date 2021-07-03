@@ -3,7 +3,7 @@ SOCAT=$(which socat 2>/dev/null)
 [ -z "$SOCAT" ] && (echo "socat not found. Try installing the socat package."; exit 2)
 set -e
 
-echo -ne "HTTP/1.1 20O OK\r
+echo -ne "HTTP/1.1 200 OK\r
 Content-Type: text/plain\r
 Content-Length: 1024\r
 Connection: close\r
